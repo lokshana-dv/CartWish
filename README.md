@@ -45,8 +45,7 @@ npm install
 ```
 3. Create a `.env` file with your MongoDB Atlas URI and JWT secret:
 ```
-MONGO_URI=your_mongo_atlas_connection_string
-JWT_SECRET=your_jwt_secret
+
 ```
 4. Start the server:
 ```bash
@@ -55,4 +54,5 @@ npm start
 5. Use **MongoDB Compass** locally to view or manage the database if needed.
 
 ---
+
 
